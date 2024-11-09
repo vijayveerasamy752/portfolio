@@ -12,7 +12,7 @@ export default function Projects(){
         {
             image :WebsiteImg2,
             description:'Personal portfolio website. Built with React & Tailwind',
-            link:''
+            link:'https://github.com/vijayveerasamy752/portfolio.git'
             },
             {
                 image :WebsiteImg3,

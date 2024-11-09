@@ -9,6 +9,8 @@ header ul li{
 }
 .bg-secondary{
   background: #420395;
+}.bg-thirdly{
+  background: #6508df;
 }
 .mobile-nav{
   @apply fixed top-0 bg-gray-800 top-10 left-0 w-full h-1/4 
